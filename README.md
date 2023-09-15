@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Meu nome é Julia :)
+Meu nome é Julia:v:
 e-mail: julia.da.silva02@escola.pr.gov.br.
 
 Estou estudando na [Alura](https://www.alura.com.br)

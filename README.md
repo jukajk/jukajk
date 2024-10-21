@@ -4,7 +4,7 @@ Meu nome é Julia
 
 e-mail: julia.da.silva02@escola.pr.gov.br.
 
-Estou estudando na [Alura](https://www.alura.com.br)
+Estou estudando no [Alura](https://www.alura.com.br)
 
 Estou me desenvolvendo na linguagem JavaScript
 
